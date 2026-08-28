@@ -1,5 +1,15 @@
 # Marine eDNA Metabarcoding Analysis Using R
 
+## Download the workshop files
+
+[⬇ Download the complete workshop package](https://github.com/7LuckySong/jeju-arms-metabarcoding-workshop_v2026/releases/tag/v1.0.0)
+
+Download the ZIP file, extract it completely, and open
+`ARMS_Metabarcoding_Workshop.Rproj` in RStudio.
+
+> Do not use **Code → Download ZIP**.  
+> The complete FASTQ dataset is provided in the Release package.
+
 ## Jeju ARMS Case Study
 
 This repository contains the lecture slides, R scripts, and practice datasets for a two-day workshop on marine eDNA metabarcoding analysis.
